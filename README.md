@@ -67,3 +67,4 @@ Gremlin will judge your PR. Kindly.
 - `psutil`
 - A terminal that supports Unicode + ANSI escape sequences
 - Optional: `neovim` (for maximum gremlin enrichment)
+- Optional: `tmux` (for incredible gremlin enrichment)
